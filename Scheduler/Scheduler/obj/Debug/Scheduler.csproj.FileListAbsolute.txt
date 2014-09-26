@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\Scheduler\Scheduler\bin\Debug\Scheduler.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Scheduler\Scheduler\obj\Debug\Scheduler.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Scheduler\Scheduler\obj\Debug\Scheduler.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Scheduler\Scheduler\obj\Debug\Scheduler.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Scheduler\Scheduler\obj\Debug\Scheduler.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+c:\users\user\documents\visual studio 2013\Projects\Scheduler\Scheduler\bin\Debug\Scheduler.pdb
+c:\users\user\documents\visual studio 2013\Projects\Scheduler\Scheduler\obj\Debug\Scheduler.exe
+c:\users\user\documents\visual studio 2013\Projects\Scheduler\Scheduler\obj\Debug\Scheduler.pdb
